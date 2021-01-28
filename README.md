@@ -1,6 +1,8 @@
 
 # Best bootcamps and programs to learn Machine Learning and Data Science
 
+![ml-bootcamps](ml-bootcamps.jpg)
+
 Bootcamps and interactive online platforms are an excellent way to acquire new skills. When it comes to Machine Learning and Data Science, there are a variety of different choices that one can choose from. Some provide onsite training and some online. Some focus on video courses, while others on real-life coding projects. In this list, I hope to outline all the most popular choices and help you pick the one that fits your learning style.
 
 For each program, I’ll present a rating borrowed from [Switchup](https://www.switchup.org/), its different locations, an average duration and a handful of recommended courses around Machine Learning and Data Science.
